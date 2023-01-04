@@ -9,3 +9,4 @@ Solutions of the famous [99 Lisp Problems](https://www.ic.unicamp.br/~meidanis/c
 - [x] Find the number of elements of a list.
 - [x] Reverse a list.
 - [x] Find out whether a list is a palindrome.
+- [x] Flatten a ensted list structure.
