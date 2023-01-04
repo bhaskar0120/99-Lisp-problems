@@ -10,3 +10,4 @@ Solutions of the famous [99 Lisp Problems](https://www.ic.unicamp.br/~meidanis/c
 - [x] Reverse a list.
 - [x] Find out whether a list is a palindrome.
 - [x] Flatten a ensted list structure.
+- [x] Eliminate consecutive duplicates of list elements.
